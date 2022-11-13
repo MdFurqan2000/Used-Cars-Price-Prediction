@@ -12,7 +12,4 @@ In this Machine Learning Project I used Random Forest Regressor model to predict
 The data I have used in this project was downloaded from Kaggle. It was uploaded by Cardekho.com . The dataset consists of 301 rows and 9 columns with no null values. Column data consist of independent Features. The independent features contain both categorical and numeric values.
 
 
-## Screenshots
-
-
-https://repository-images.githubusercontent.com/286819592/b82e14cf-3c85-4f91-84c0-bea095c353a8
+![car price prediction](https://user-images.githubusercontent.com/115481362/201520891-86a62824-5392-4f5a-9338-b51be8299b0d.png)
